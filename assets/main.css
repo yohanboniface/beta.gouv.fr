@@ -96,6 +96,11 @@
   width: 100%;
 }
 
+/* Parce que les images des startups fiches ne sont pas toujours à la bonne taille */
+.hero__startup img {
+  width: 100%;
+}
+
 .hero__startup__mission {
   color: #4941C0;
 }
