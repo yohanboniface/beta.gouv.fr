@@ -1,16 +1,15 @@
 ---
 fullname: Baptiste Fraikin
 role: Responsable SSI
-domaine: Autre
+domaine: autre
 missions:
   - start: 2020-01-08
-    end: 2021-12-31
+    end: 2022-12-31
     status: independent
-    employer: minarm
+    employer: minarm, ministere de l'interieur
 github: bafraikin
 startups:
-  - metiis
   - anais
-  - sepia
-  - usine-chatbots
+  - moana
+
 ---
