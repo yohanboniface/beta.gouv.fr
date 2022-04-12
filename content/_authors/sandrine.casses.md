@@ -4,7 +4,7 @@ role: Equipe Support
 github: Sandrine12510
 missions:
   - start: 2021-05-25
-    end: 2022-05-25
+    end: 2022-12-31
     status: admin
     employer: Pôle emploi 
 startups:
